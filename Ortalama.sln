@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ortalama", "Ortalama\Ortalama.csproj", "{EBD8E0A9-7613-43D8-A4C1-EEC39F85D3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kullanici Adi", "Kullanici Adi\Kullanici Adi.csproj", "{444CE564-F9D2-48C4-8DE1-2993CF2ED9BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adSoyad", "adSoyad\adSoyad.csproj", "{09C87E87-DA1C-45AD-84B7-BF36D22C569D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD8E0A9-7613-43D8-A4C1-EEC39F85D3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD8E0A9-7613-43D8-A4C1-EEC39F85D3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD8E0A9-7613-43D8-A4C1-EEC39F85D3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD8E0A9-7613-43D8-A4C1-EEC39F85D3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444CE564-F9D2-48C4-8DE1-2993CF2ED9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444CE564-F9D2-48C4-8DE1-2993CF2ED9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444CE564-F9D2-48C4-8DE1-2993CF2ED9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444CE564-F9D2-48C4-8DE1-2993CF2ED9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C87E87-DA1C-45AD-84B7-BF36D22C569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C87E87-DA1C-45AD-84B7-BF36D22C569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C87E87-DA1C-45AD-84B7-BF36D22C569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C87E87-DA1C-45AD-84B7-BF36D22C569D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

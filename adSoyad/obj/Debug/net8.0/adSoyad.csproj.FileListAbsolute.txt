@@ -1,0 +1,14 @@
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\bin\Debug\net8.0\adSoyad.exe
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\bin\Debug\net8.0\adSoyad.deps.json
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\bin\Debug\net8.0\adSoyad.runtimeconfig.json
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\bin\Debug\net8.0\adSoyad.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\bin\Debug\net8.0\adSoyad.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.AssemblyInfoInputs.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.AssemblyInfo.cs
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.csproj.CoreCompileInputs.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\refint\adSoyad.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\adSoyad.genruntimeconfig.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\adSoyad\obj\Debug\net8.0\ref\adSoyad.dll

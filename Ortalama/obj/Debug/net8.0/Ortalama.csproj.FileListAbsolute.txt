@@ -1,0 +1,14 @@
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\bin\Debug\net8.0\Ortalama.exe
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\bin\Debug\net8.0\Ortalama.deps.json
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\bin\Debug\net8.0\Ortalama.runtimeconfig.json
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\bin\Debug\net8.0\Ortalama.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\bin\Debug\net8.0\Ortalama.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.AssemblyInfoInputs.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.AssemblyInfo.cs
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\refint\Ortalama.dll
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.pdb
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\Ortalama.genruntimeconfig.cache
+C:\Users\mhmmt\OneDrive\Masaüstü\1048_MuhammetAli_Kaya\Ortalama\obj\Debug\net8.0\ref\Ortalama.dll
